@@ -23,7 +23,7 @@ repository               : "izzetp/izzetp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  # avatar           : "profile.png"
   name             : "Izzet Pensoy"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science and Engineering @ TU Eindhoven"
