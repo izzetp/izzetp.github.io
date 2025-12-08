@@ -187,10 +187,13 @@ main {
 }
 
 .date {
-  display: block;
   font-size: 0.85rem;
   color: #6b7280;
-  margin-top: -0.25rem;
-  margin-bottom: 0.5rem;
 }
 
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.25rem;
+}
