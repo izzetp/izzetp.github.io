@@ -187,9 +187,10 @@ main {
 }
 
 .date {
-  font-size: 0.8rem;
+  display: block;
+  font-size: 0.85rem;
   color: #6b7280;
-  font-weight: normal;
-  margin-left: 0.25rem;
+  margin-top: -0.25rem;
+  margin-bottom: 0.5rem;
 }
 
