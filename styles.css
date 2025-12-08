@@ -121,7 +121,7 @@ main {
 
 .projects {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr !important;
   gap: 1.25rem;
 }
 
