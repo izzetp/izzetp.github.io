@@ -186,17 +186,18 @@ main {
   }
 }
 
-.date {
-  display: block;
-  font-size: 0.8rem;
-  color: #6b7280;
-  margin-top: 0.1rem;
-  margin-bottom: 0.75rem;
+.card-header {
+  margin-bottom: 0.75rem; /* space between header and description */
 }
 
-.card-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  margin-bottom: 0.25rem;
+.card-header h3 {
+  margin: 0; /* remove default big h3 margin */
 }
+
+.card-header .date {
+  display: block;
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-top: 0.15rem;
+}
+
